@@ -55,7 +55,7 @@ TBD
 <colgroup>
 
 
-|![img](zlatan.jpg ){width=200px}|![img](citations.jpeg){width=200px}|![img](tumova.jpeg){width=200px}|![img](chris.jpg){width=200px}|
+|![img](zlatan.jpg){width=200px}|![img](citations.jpeg){width=200px}|![img](tumova.jpeg){width=200px}|![img](chris.jpg){width=200px}|
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |**Zlatan Ajanović**|**Jens Kober**|**Jana Tumova**|**Christian Pek**|
 | TU Delft |TU Delft | KTH Royal Institute of Technology|KTH Royal Institute of Technology|
