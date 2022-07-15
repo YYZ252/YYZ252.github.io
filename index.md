@@ -44,7 +44,7 @@ TBD
 - Workshop submission deadline: TBD
 - Workshop author notification: TBD
 - Finalized workshop program: TBD
-- Workshop date: **15th December 2022**
+- Workshop date: **15<sup>th</sup> December 2022**
 
 ### Organizers 
 
