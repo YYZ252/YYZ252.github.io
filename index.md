@@ -49,9 +49,9 @@ TBD
 ### Organizers 
 
 
-|![](zlatan.jpg )||||
-|Zlatan Ajanović|Jens Kober|Jana Tumova|Christian Pek|
+|![](zlatan.jpg )|![](jens.jpeg)|![](jana.jpeg)|![](chris.jpg)|
 |:-------------:|:-------------:|:-------------:|:-------------:|
+|Zlatan Ajanović|Jens Kober|Jana Tumova|Christian Pek|
 |TU Delft|TU Delft|KTH Royal Institute of Technology|KTH Royal Institute of Technology |
 
 ### Contact
