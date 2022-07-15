@@ -47,15 +47,10 @@ TBD
 - Workshop date: **15th December 2022**
 
 ### Organizers 
-<colgroup>
-    <col style="width: 25%">
-    <col style="width: 25%">
-    <col style="width: 25%">
-    <col style="width: 25%">
-<colgroup>
 
 
-|![img](zlatan.jpg){width=200px}|![img](citations.jpeg){width=200px}|![img](tumova.jpeg){width=200px}|![img](chris.jpg){width=200px}|
+
+|![img](zlatan.jpg){width=200}|![img](citations.jpeg){width=200}|![img](tumova.jpeg){width=200}|![img](chris.jpg){width=200}|
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |**Zlatan Ajanović**|**Jens Kober**|**Jana Tumova**|**Christian Pek**|
 | TU Delft |TU Delft | KTH Royal Institute of Technology|KTH Royal Institute of Technology|
