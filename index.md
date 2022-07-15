@@ -56,4 +56,4 @@ TBD
 
 ### Contact
 
-[url](l3h2-workshop@googlegroups.com)
+[l3h2-workshop@googlegroups.com](mailto:l3h2-workshop@googlegroups.com)
