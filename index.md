@@ -53,7 +53,7 @@ TBD
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |**Zlatan Ajanović**|**Jens Kober**|**Jana Tumova**|**Christian Pek**|
 |TU Delft|TU Delft|KTH Royal Institute of Technology|KTH Royal Institute of Technology |
-| <div style="width:210px">property</div> |<div style="width:210px">property</div> |<div style="width:210px">property</div> |<div style="width:210px">property</div> |
+| <div style="width:210px"></div> |<div style="width:210px"></div> |<div style="width:210px"></div> |<div style="width:210px"></div> |
 
 ### Contact
 
