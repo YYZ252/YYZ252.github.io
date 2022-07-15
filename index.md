@@ -49,9 +49,9 @@ TBD
 ### Organizers 
 
 
-|:-:|:-:|:-:|:-:|
+|![Image](https://github.com/life-long-learning-with-human-help-l3h2/life-long-learning-with-human-help-l3h2.github.io/zlatan.jpg )||||
 |Zlatan Ajanović|Jens Kober|Jana Tumova|Christian Pek|
-|:-:|:-:|:-:|:-:|
+|:-------------:|:-------------:|:-------------:|:-------------:|
 |TU Delft|TU Delft|KTH Royal Institute of Technology|KTH Royal Institute of Technology |
 
 ### Contact
