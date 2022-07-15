@@ -47,6 +47,12 @@ TBD
 - Workshop date: **15th December 2022**
 
 ### Organizers 
+<colgroup>
+    <col style="width: 25%">
+    <col style="width: 25%">
+    <col style="width: 25%">
+    <col style="width: 25%">
+<colgroup>
 
 
 |![img](zlatan.jpg ){width=200px}|![img](citations.jpeg){width=200px}|![img](tumova.jpeg){width=200px}|![img](chris.jpg){width=200px}|
