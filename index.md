@@ -42,7 +42,7 @@ TBD
 ### Important dates
 
 TBD
-15. December 2022 - Workshop date
+15th December 2022 - Workshop date
 
 ### Organizers 
 
