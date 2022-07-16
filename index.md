@@ -1,5 +1,3 @@
-## Workshop on Life-Long Learning with Human Help (L<sup>3</sup>H<sup>2</sup>)   <br/>   CoRL 2022 
-
 
 Autonomous robots often need to operate with and around humans, to provide added value to the collaborative team, to earn-and-prove trustworthiness, as well as to utilize the support from the human team-mates. The presence of humans brings additional challenges for robot decision-making, but also opportunities for improving the decision-making capabilities with human help. Two major computational paradigms for sequential decision-making are planning and learning.
 
