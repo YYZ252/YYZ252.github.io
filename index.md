@@ -46,13 +46,12 @@ TBD
 
 ### Organizers 
 
- ![Employee data](zlatan.jpg){:height="36px" width="36px"}.
 
 <table>
   <tr>
     <td> <img src="zlatan.jpg?raw=true" alt= "" width=17%></td>
     <td> <img src="citations.jpg?raw=true" width=17%></td>
-    <td> <img src="docs/assets/images/tumova.jpeg" width=17%></td>
+    <td> <img src="docs/assets/images/tumova.JPEG" width=17%></td>
     <td> ![Employee data](zlatan.jpg)</td>
     <td> <img src="https://raw.githubusercontent.com/life-long-learning-with-human-help-l3h2/life-long-learning-with-human-help-l3h2.github.io/main/selma.jpg?raw=true" width=17%></td>
   </tr>
