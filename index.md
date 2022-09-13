@@ -49,15 +49,15 @@ TBD
 
 <table>
   <tr>
-    <td> <img src="/docs/assets/images/zlatan.jpg?raw=true" alt= "" width="17%"></td>
-    <td> <img src="/docs/assets/images/citations.jpeg" alt= "" width="17%"></td>
+    <td> <img src="/docs/assets/images/zlatan.jpg" alt= "" width="17%"></td>
+    <td> <img src="/docs/assets/images/jens.jpeg" alt= "" width="17%"></td>
     <td> <img src="/docs/assets/images/tumova.jpeg" alt= "" width="17%"></td>
     <td> <img src="/docs/assets/images/chris.jpeg" alt= "" width="17%"></td>
     <td> <img src="/docs/assets/images/selma.jpeg" alt= "" width="17%"></td>
   </tr>
 </table>
 
-| ![img](/docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|
+| <img src="/docs/assets/images/zlatan.jpg" alt= "" width="17%">|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 |**Zlatan Ajanović**|**Jens Kober**|**Jana Tumova**|**Christian Pek**|**Selma Musić**|
 | TU Delft |TU Delft | KTH Royal Institute of Technology|KTH Royal Institute of Technology| Stanford University |
