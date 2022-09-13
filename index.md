@@ -47,13 +47,13 @@ TBD
 ### Organizers 
 
 
-<table>
+<table width="100%">
   <tr>
-    <td> <img src="/docs/assets/images/zlatan.jpg" alt= "" width="200px"></td>
-    <td> <img src="/docs/assets/images/jens.jpeg" alt= "" width="200px"></td>
-    <td> <img src="/docs/assets/images/tumova.jpeg" alt= "" width="200px"></td>
-    <td> <img src="/docs/assets/images/chris.jpg" alt= "" width="200px"></td>
-    <td> <img src="/docs/assets/images/selma.jpg" alt= "" width="200px"></td>
+    <td width="20%"> <img src="/docs/assets/images/zlatan.jpg" alt= ""></td>
+    <td width="20%"> <img src="/docs/assets/images/jens.jpeg" alt= "" ></td>
+    <td width="20%"> <img src="/docs/assets/images/tumova.jpeg" alt= "" ></td>
+    <td width="20%"> <img src="/docs/assets/images/chris.jpg" alt= ""></td>
+    <td width="20%"> <img src="/docs/assets/images/selma.jpg" alt= ""></td>
   </tr>  
   <tr>
     <td><b>Zlatan Ajanović</b></td>
