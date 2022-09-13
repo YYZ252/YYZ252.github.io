@@ -52,9 +52,24 @@ TBD
     <td> <img src="/docs/assets/images/zlatan.jpg" alt= "" width="17%"></td>
     <td> <img src="/docs/assets/images/jens.jpeg" alt= "" width="17%"></td>
     <td> <img src="/docs/assets/images/tumova.jpeg" alt= "" width="17%"></td>
-    <td> <img src="/docs/assets/images/chris.jpeg" alt= "" width="17%"></td>
-    <td> <img src="/docs/assets/images/selma.jpeg" alt= "" width="17%"></td>
-  </tr>
+    <td> <img src="/docs/assets/images/chris.jpg" alt= "" width="17%"></td>
+    <td> <img src="/docs/assets/images/selma.jpg" alt= "" width="17%"></td>
+  </tr>  
+  <tr>
+    <td>**Zlatan Ajanović**</td>
+    <td>**Jens Kober**</td>
+    <td>**Jana Tumova**</td>
+    <td>**Christian Pek**</td>
+    <td>**Selma Musić**</td>
+  </tr> 
+  
+  <tr>
+    <td>TU Delft</td>
+    <td>TU Delft</td>
+    <td>KTH Royal Institute of Technology</td>
+    <td>KTH Royal Institute of Technology</td>
+    <td>Stanford University</td>
+  </tr> 
 </table>
 
 | <img src="/docs/assets/images/zlatan.jpg" alt= "" width="17%">|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|
