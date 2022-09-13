@@ -57,7 +57,7 @@ TBD
   </tr>
 </table>
 |![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|
-|:-------------:|:-------------:|:-------------:|:-------------:|
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 |**Zlatan Ajanović**|**Jens Kober**|**Jana Tumova**|**Christian Pek**|**Selma Musić**|
 | TU Delft |TU Delft | KTH Royal Institute of Technology|KTH Royal Institute of Technology| Stanford University |
 
