@@ -51,8 +51,8 @@ TBD
 
 <table>
   <tr>
-    <td> <img src="zlatan.jpg" alt= "" width=17%></td>
-    <td> <img src="citations.jpeg" width=17%></td>
+    <td> <img src="zlatan.JPG" alt= "" width=17%></td>
+    <td> <img src="citations.JPEG" width=17%></td>
     <td> <img src="https://raw.githubusercontent.com/life-long-learning-with-human-help-l3h2/life-long-learning-with-human-help-l3h2.github.io/main/tumova.jpeg" width=17%></td>
     <td> <img src="https://raw.githubusercontent.com/life-long-learning-with-human-help-l3h2/life-long-learning-with-human-help-l3h2.github.io/main/chris.jpg" width=17%></td>
     <td> <img src="https://raw.githubusercontent.com/life-long-learning-with-human-help-l3h2/life-long-learning-with-human-help-l3h2.github.io/main/selma.jpg" width=17%></td>
