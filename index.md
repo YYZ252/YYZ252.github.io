@@ -47,10 +47,10 @@ TBD
 ### Organizers 
 
 
-|<img src="zlatan.jpg" alt=" " width="200"/>|<img src="citations.jpeg" alt=" " width="200"/>|<img src="tumova.jpeg" alt=" " width="200"/>|<img src="chris.jpg" alt=" " width="200"/>|
+|<img src="https://raw.githubusercontent.com/life-long-learning-with-human-help-l3h2/life-long-learning-with-human-help-l3h2.github.io/main/zlatan.jpg" width=17% height=17%>|<img src="https://raw.githubusercontent.com/life-long-learning-with-human-help-l3h2/life-long-learning-with-human-help-l3h2.github.io/main/citations.jpeg" width=17% height=17%>|<img src="[tumova.jpeg](https://raw.githubusercontent.com/life-long-learning-with-human-help-l3h2/life-long-learning-with-human-help-l3h2.github.io/main/tumova.jpeg)" width=17% height=17%>|<img src="https://raw.githubusercontent.com/life-long-learning-with-human-help-l3h2/life-long-learning-with-human-help-l3h2.github.io/main/chris.jpg" width=17% height=17%>|<img src="[https://github.com/life-long-learning-with-human-help-l3h2/life-long-learning-with-human-help-l3h2.github.io/blob/main/selma.jpg](https://github.com/life-long-learning-with-human-help-l3h2/life-long-learning-with-human-help-l3h2.github.io/blob/main/selma.jpg?raw=true)" width=17% height=17%>|
 |:-------------:|:-------------:|:-------------:|:-------------:|
-|**Zlatan Ajanović**|**Jens Kober**|**Jana Tumova**|**Christian Pek**|
-| TU Delft |TU Delft | KTH Royal Institute of Technology|KTH Royal Institute of Technology|
+|**Zlatan Ajanović**|**Jens Kober**|**Jana Tumova**|**Christian Pek**|**Selma Musić**|
+| TU Delft |TU Delft | KTH Royal Institute of Technology|KTH Royal Institute of Technology| Stanford University |
 
 ### Contact
 
