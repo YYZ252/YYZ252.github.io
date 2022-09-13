@@ -51,12 +51,13 @@ TBD
   <tr>
     <td> <img src="zlatan.jpg?raw=true" alt= "" width=17%></td>
     <td> <img src="citations.jpg?raw=true" width=17%></td>
-    <td> <img src="/docs/assets/images/tumova.jpg" width=17%></td>
+    <td> <img src="/docs/assets/images/tumova.jpeg" width=17%></td>
     <td> ![Employee data](zlatan.jpg)</td>
     <td> <img src="https://raw.githubusercontent.com/life-long-learning-with-human-help-l3h2/life-long-learning-with-human-help-l3h2.github.io/main/selma.jpg?raw=true" width=17%></td>
   </tr>
 </table>
-|![img](/docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|
+
+| ![img](/docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|![](docs/assets/images/zlatan.jpg)|
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 |**Zlatan Ajanović**|**Jens Kober**|**Jana Tumova**|**Christian Pek**|**Selma Musić**|
 | TU Delft |TU Delft | KTH Royal Institute of Technology|KTH Royal Institute of Technology| Stanford University |
