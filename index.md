@@ -46,9 +46,7 @@ TBD
 
 ### Organizers 
 
-<div style="width:50px; height:50px">
- ![Employee data](zlatan.jpg)
-</div>
+ ![Employee data](zlatan.jpg){:height="36px" width="36px"}.
 
 <table>
   <tr>
