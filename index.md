@@ -56,11 +56,11 @@ TBD
     <td> <img src="/docs/assets/images/selma.jpg" alt= "" width="17%"></td>
   </tr>  
   <tr>
-    <td>**Zlatan Ajanović**</td>
-    <td>**Jens Kober**</td>
-    <td>**Jana Tumova**</td>
-    <td>**Christian Pek**</td>
-    <td>**Selma Musić**</td>
+    <td><b>Zlatan Ajanović</b></td>
+    <td><b>Jens Kober</b></td>
+    <td><b>Jana Tumova</b></td>
+    <td><b>Christian Pek</b></td>
+    <td><b>Selma Musić</b></td>
   </tr> 
   
   <tr>
