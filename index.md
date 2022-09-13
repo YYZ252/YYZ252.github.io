@@ -46,7 +46,7 @@ TBD
 
 ### Organizers 
 
-
+ ![Employee data](zlatan.jpg)
 
 
 <table>
