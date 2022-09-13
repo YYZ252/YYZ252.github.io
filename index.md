@@ -49,11 +49,11 @@ TBD
 
 <table>
   <tr>
-    <td> <img src="/docs/assets/images/zlatan.jpg" alt= "" width="80%"></td>
-    <td> <img src="/docs/assets/images/jens.jpeg" alt= "" width="80%"></td>
-    <td> <img src="/docs/assets/images/tumova.jpeg" alt= "" width="80%"></td>
-    <td> <img src="/docs/assets/images/chris.jpg" alt= "" width="80%"></td>
-    <td> <img src="/docs/assets/images/selma.jpg" alt= "" width="80%"></td>
+    <td> <img src="/docs/assets/images/zlatan.jpg" alt= "" width="200px"></td>
+    <td> <img src="/docs/assets/images/jens.jpeg" alt= "" width="200px"></td>
+    <td> <img src="/docs/assets/images/tumova.jpeg" alt= "" width="200px"></td>
+    <td> <img src="/docs/assets/images/chris.jpg" alt= "" width="200px"></td>
+    <td> <img src="/docs/assets/images/selma.jpg" alt= "" width="200px"></td>
   </tr>  
   <tr>
     <td><b>Zlatan Ajanović</b></td>
