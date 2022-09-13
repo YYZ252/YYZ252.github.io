@@ -56,19 +56,19 @@ TBD
     <td width="20%"> <img src="/docs/assets/images/selma.jpg" alt= ""></td>
   </tr>  
   <tr>
-    <td><b>Zlatan Ajanović</b></td>
-    <td><b>Jens Kober</b></td>
-    <td><b>Jana Tumova</b></td>
-    <td><b>Christian Pek</b></td>
-    <td><b>Selma Musić</b></td>
+    <td style="text-align: center; vertical-align: middle;"><b>Zlatan Ajanović</b></td>
+    <td style="text-align: center; vertical-align: middle;"><b>Jens Kober</b></td>
+    <td style="text-align: center; vertical-align: middle;"><b>Jana Tumova</b></td>
+    <td style="text-align: center; vertical-align: middle;"><b>Christian Pek</b></td>
+    <td style="text-align: center; vertical-align: middle;"><b>Selma Musić</b></td>
   </tr> 
   
   <tr>
-    <td>TU Delft</td>
-    <td>TU Delft</td>
-    <td>KTH Royal Institute of Technology</td>
-    <td>KTH Royal Institute of Technology</td>
-    <td>Stanford University</td>
+    <td style="text-align: center; vertical-align: middle;">TU Delft</td>
+    <td style="text-align: center; vertical-align: middle;">TU Delft</td>
+    <td style="text-align: center; vertical-align: middle;">KTH Royal Institute of Technology</td>
+    <td style="text-align: center; vertical-align: middle;">KTH Royal Institute of Technology</td>
+    <td style="text-align: center; vertical-align: middle;">Stanford University</td>
   </tr> 
 </table>
 
