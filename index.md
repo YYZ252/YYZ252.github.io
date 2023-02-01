@@ -42,7 +42,7 @@ TBD
 - Workshop submission deadline: TBD
 - Workshop author notification: TBD
 - Finalized workshop program: TBD
-- Workshop date: **29<sup>th</sup> May or 2<sup>nd</sup> June 2023 (tentative)**
+- Workshop date: **29<sup>th</sup> May 2023**
 
 ### Organizers 
 
