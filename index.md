@@ -39,9 +39,10 @@ TBD
 
 ### Important dates
 
-- Workshop submission deadline: TBD
-- Workshop author notification: TBD
-- Finalized workshop program: TBD
+- Workshop paper submission deadline: 28th April 2023 (AOE)
+- Author notification: 12th May 2023
+- Camera-ready: 24th May 2023
+- Finalized workshop program: 25th May 2023
 - Workshop date: **29<sup>th</sup> May 2023**
 
 ### Organizers 
