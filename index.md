@@ -34,10 +34,26 @@ We focus on enabling life-long learning with human help through:
 <center>
 <table style="width: 80%;">
   <tr>
-    <td width="20%" style="text-align: center; vertical-align: middle; border: none;" > <img src="/docs/assets/images/speakers/andy.jpg" alt= ""></td>
-    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> <img src="/docs/assets/images/speakers/dorsa2.JPG" alt= "" ></td>
-    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> <img src="/docs/assets/images/speakers/george2.jpg" alt= "" ></td>
-    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> <img src="/docs/assets/images/speakers/karinne2.jpg" alt= ""></td>
+    <td width="20%" style="text-align: center; vertical-align: middle; border: none;" > 
+      <a href="https://andyzeng.github.io/" target="_blank">
+        <img src="/docs/assets/images/speakers/andy.jpg" alt= "">
+      </a>
+    </td>
+    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> 
+      <a href="https://dorsa.fyi/" target="_blank">
+        <img src="/docs/assets/images/speakers/dorsa2.JPG" alt= "" >
+      </a>
+    </td>
+    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> 
+      <a href="https://cs.brown.edu/people/gdk/" target="_blank">
+        <img src="/docs/assets/images/speakers/george2.jpg" alt= "" >
+      </a>
+    </td>
+    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> 
+      <a href="https://www.chalmers.se/en/staff/Pages/karinne.aspx" target="_blank">
+        <img src="/docs/assets/images/speakers/karinne2.jpg" alt= "">
+      </a>
+    </td>
   </tr>  
   <tr>
     <td style="text-align: center; vertical-align: top; border: none;"><b>Andy Zeng</b><br>Google AI, USA</td>
@@ -49,16 +65,27 @@ We focus on enabling life-long learning with human help through:
 
 <table style="width: 60%;">
   <tr>
-    <td width="25%" style="text-align: center; vertical-align: middle; border: none;" > <img src="/docs/assets/images/speakers/meng.png" alt= ""></td>
-    <td width="25%" style="text-align: center; vertical-align: middle; border: none;"> <img src="/docs/assets/images/speakers/nick.jpeg" alt= "" ></td>
-    <td width="25%" style="text-align: center; vertical-align: middle; border: none;"> <img src="/docs/assets/images/speakers/peter2.png" alt= "" ></td>
+    <td width="25%" style="text-align: center; vertical-align: middle; border: none;" > 
+      <a href="https://mengguo.github.io/personal_site/" target="_blank">
+        <img src="/docs/assets/images/speakers/meng.png" alt= "">
+      </a>
+    </td>
+    <td width="25%" style="text-align: center; vertical-align: middle; border: none;"> 
+      <a href="https://www.robots.ox.ac.uk/~nickh/" target="_blank">
+        <img src="/docs/assets/images/speakers/nick.jpeg" alt= "" >
+      </a>
+    </td>
+    <td width="25%" style="text-align: center; vertical-align: middle; border: none;"> 
+      <a href="https://www.cs.utexas.edu/~pstone/" target="_blank">
+        <img src="/docs/assets/images/speakers/peter2.png" alt= "" >
+      </a>
+    </td>
   </tr>  
   <tr>
     <td style="text-align: center; vertical-align: top; border: none;"><b>Meng Guo</b><br>Peking University, China</td>
     <td style="text-align: center; vertical-align: top; border: none;"><b>Nick Hawes</b><br>University of Oxford, UK</td>
     <td style="text-align: center; vertical-align: top; border: none;"><b>Peter Stone</b><br>The University of Texas at Austin, USA</td>
   </tr> 
-
 </table>
 
 </center>
@@ -80,12 +107,32 @@ TBD
 
 <table style="width: 100%;">
   <tr>
-    <td width="20%" style="text-align: center; vertical-align: middle; border: none;" > <img src="/docs/assets/images/zlatan.jpg" alt= ""></td>
-    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> <img src="/docs/assets/images/jens.jpeg" alt= "" ></td>
-    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> <img src="/docs/assets/images/tumova.jpeg" alt= "" ></td>
-    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> <img src="/docs/assets/images/chris.jpg" alt= ""></td>
-    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> <img src="/docs/assets/images/selma.jpg" alt= ""></td>
-  </tr>  
+    <td width="20%" style="text-align: center; vertical-align: middle; border: none;" >
+      <a href="https://www.linkedin.com/in/zlatanajanovic/" target="_blank">
+        <img src="/docs/assets/images/zlatan.jpg" alt= "" >
+      </a>
+    </td>
+    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> 
+      <a href="http://jenskober.de/" target="_blank">
+        <img src="/docs/assets/images/jens.jpeg" alt= "" >
+      </a>
+    </td>
+    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> 
+      <a href="https://sites.google.com/view/janatumova/home" target="_blank">
+        <img src="/docs/assets/images/tumova.jpeg" alt= "" >
+      </a>
+    </td>
+    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> 
+      <a href="https://www.kth.se/profile/pek2" target="_blank">
+        <img src="/docs/assets/images/chris.jpg" alt= "">
+      </a>
+    </td>
+    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> 
+      <a href="https://scholar.google.hr/citations?user=8v5fB_4AAAAJ" target="_blank">
+        <img src="/docs/assets/images/selma.jpg" alt= "" >
+      </a>
+    </td>
+  </tr>
   <tr>
     <td style="text-align: center; vertical-align: top; border: none;"><b>Zlatan Ajanović</b><br>TU Delft</td>
     <td style="text-align: center; vertical-align: top; border: none;"><b>Jens Kober</b><br>TU Delft</td>
@@ -96,24 +143,26 @@ TBD
 </table>
 
 
+
 ### Supporting IEEE RAS technical committees
 
-<table class="tb">
+<table style="border-collapse: collapse; border-spacing:0 " cellspacing="0" >
 <thead>
   <tr>
     <td width="25%" style="border: none" rowspan="3">
       <img src="/docs/assets/images/RAS-logo.png" alt= "">
     </td>
-    <td style="border: none">Technical Committee on Robot Learning</td>
+    <td style="border: none; border-spacing:0; border-collapse: collapse">Technical Committee on Robot Learning</td>
   </tr>
   <tr>
-    <td style="border: none">Technical Committee on Human-Robot Interaction and Communication</td>
+    <td style="border: none; border-spacing:0; border-collapse: collapse">Technical Committee on Human-Robot Interaction and Communication</td>
   </tr>
   <tr>
-    <td style="border: none">Technical Committee on Cognitive Robotics</td>
+    <td style="border: none; border-spacing:0; border-collapse: collapse">Technical Committee on Cognitive Robotics</td>
   </tr>
 </thead>
 </table>
+
 
 ### Ackwnowledgements
 
