@@ -165,6 +165,7 @@ TBD
 
 ### Ackwnowledgements
 
+This workshop is partially supported by the Wallenberg AI, Autonomous Systems and Software Program (WASP) funded by the Knut and Alice Wallenberg Foundation; European Research Council Starting Grant TERI “Teaching Robots Interactively”, grant agreement no. 804907; European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie Actions grant agreement no. 101025273.
 
 
 ### Contact
