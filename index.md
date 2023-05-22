@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Autonomous robots often need to operate with and around humans, to provide added value to the collaborative team, to earn-and-prove trustworthiness, as well as to utilize the support from the human team-mates. The presence of humans brings additional challenges for robot decision-making, but also opportunities for improving the decision-making capabilities with human help. Two major computational paradigms for sequential decision-making are planning and learning.
 
 Planning in multi-stage robotic problems is not trivial, mainly due to computational efficiency (due to the curse of dimensionality) and the need for accurate models. To plan more efficiently, researchers use hierarchical abstractions (e.g. Task and Motion Planning - TAMP). Representing the problem as TAMP enables to incorporate declarative knowledge and to achieve predictable and interpretable behavior. However, creating declarative models requires significant engineering effort and it is practically impossible to account in advance for all possible cases robots might face in the long-term operations in the wild. Therefore, life-long learning presents itself as a necessity and human help as a dependable source of knowledge! 
@@ -26,6 +30,15 @@ We focus on enabling life-long learning with human help through:
 - Learning general robotic task specifications
 - Modeling, symbolic model acquisition, representation learning
 - Neuro-symbolic AI for robotics 
+
+
+### Important dates
+
+- Workshop paper submission deadline: ~~28th April 2023 (AOE)~~
+- Author notification: ~~12th May 2023~~
+- Camera-ready: 24th May 2023
+- Finalized workshop program: ~~25th May 2023~~
+- Workshop date: **29<sup>th</sup> May 2023**
 
 
 ### Speakers 
@@ -62,21 +75,26 @@ We focus on enabling life-long learning with human help through:
   </tr> 
 </table>
 
-<table style="width: 60%;">
+<table style="width: 80%;">
   <tr>
-    <td width="25%" style="text-align: center; vertical-align: middle; border: none;" > 
+    <td width="20%" style="text-align: center; vertical-align: middle; border: none;" > 
       <a href="https://mengguo.github.io/personal_site/" target="_blank">
         <img src="/docs/assets/images/speakers/meng.png" alt= "">
       </a>
     </td>
-    <td width="25%" style="text-align: center; vertical-align: middle; border: none;"> 
+    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> 
       <a href="https://www.robots.ox.ac.uk/~nickh/" target="_blank">
         <img src="/docs/assets/images/speakers/nick.jpeg" alt= "" >
       </a>
     </td>
-    <td width="25%" style="text-align: center; vertical-align: middle; border: none;"> 
+    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> 
       <a href="https://www.cs.utexas.edu/~pstone/" target="_blank">
         <img src="/docs/assets/images/speakers/peter2.png" alt= "" >
+      </a>
+    </td>
+    <td width="20%" style="text-align: center; vertical-align: middle; border: none;"> 
+      <a href="https://ccolas.github.io/blog/" target="_blank">
+        <img src="/docs/assets/images/speakers/cedric.jpeg" alt= "" >
       </a>
     </td>
   </tr>  
@@ -84,36 +102,12 @@ We focus on enabling life-long learning with human help through:
     <td style="text-align: center; vertical-align: top; border: none;"><b>Meng Guo</b><br>Peking University, China</td>
     <td style="text-align: center; vertical-align: top; border: none;"><b>Nick Hawes</b><br>University of Oxford, UK</td>
     <td style="text-align: center; vertical-align: top; border: none;"><b>Peter Stone</b><br>The University of Texas at Austin, USA</td>
+    <td style="text-align: center; vertical-align: top; border: none;"><b>Cédric Colas</b><br>MIT and INRIA, USA and France</td>
   </tr> 
 </table>
 
 </center>
 
-### Program
-
-tbd
-
-### Call for papers
-
-#### Important dates
-
-- Workshop paper submission deadline: 28th April 2023 (AOE)
-- Author notification: 12th May 2023
-- Camera-ready: 24th May 2023
-- Finalized workshop program: 25th May 2023
-- Workshop date: **29<sup>th</sup> May 2023**
-- Submission link: [https://easychair.org/cfp/L3H2](https://easychair.org/cfp/L3H2)
-
-#### Call for papers
-
-We invite extended abstract submissions of preliminary or ongoing work related to the topics of interest. These submissions can be:
-
-- Traditional submissions presenting preliminary results of ongoing research (including negative results and open problems)
-- Submissions linked to already published papers coming from A) Journal papers which have not had the chance to be discussed in a conference and B) Conference papers from other Robotics and Machine Learning conferences that are of high interest for our workshop.
-
-All accepted abstracts will have the opportunity to be presented at the workshop during a spotlight talk and poster session. We also plan to invite some of the authors of accepted submissions to the junior panel, where current challenges, emerging topics and bluesky ideas will be discussed. This is a non-archival venue: there will be no formal proceedings, but we strongly encourage the authors to publish their extended abstracts on arXiv; links to the papers will be placed on the workshop’s website and will remain available after the workshop. 
-
-Submission format: We encourage participants to submit their research in the form of either a paper (6 pages maximum without references), or an extended abstract (2 pages maximum), both using the IEEE conference template. The submitted contributions will go through a single-blind review process.
 
 ### Organizers 
 
@@ -121,7 +115,7 @@ Submission format: We encourage participants to submit their research in the for
 <table style="width: 100%;">
   <tr>
     <td width="20%" style="text-align: center; vertical-align: middle; border: none;" >
-      <a href="https://www.linkedin.com/in/zlatanajanovic/" target="_blank">
+      <a href="https://zlatanajanovic.com" target="_blank">
         <img src="/docs/assets/images/zlatan.jpg" alt= "" >
       </a>
     </td>

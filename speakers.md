@@ -1,0 +1,41 @@
+---
+layout: default
+title: Life-Long Learning with Human Help (L<sup>3</sup>H<sup>2</sup>)
+description: Speakers
+---
+
+## Speakers
+
+
+### George Konidaris - "Reintegrating AI: Skills, Symbols, and the Sensorimotor Dilemma"
+
+George Konidaris is an Associate Professor of Computer Science at Brown and the Chief Roboticist of Realtime Robotics, a startup commercializing his work on hardware-accelerated motion planning. He holds a BScHons from the University of the Witwatersrand, an MSc from the University of Edinburgh, and a PhD from the University of Massachusetts Amherst. Prior to joining Brown, he held a faculty position at Duke and was a postdoctoral researcher at MIT. George is the recent recipient of an NSF CAREER award, young faculty awards from DARPA and the AFOSR, and the IJCAI-JAIR Best Paper Prize.
+
+### Karinne Ramirez-Amaro - "Learning robotic plan structures from human demonstrations"
+
+Karinne Ramirez-Amaro is an Associate Professor at the Department of Electrical Engineering at the Chalmers University of Technology since 2022. In 2019, she became an Assistant Professor at Chalmers in the research group Mechatronics. Previously, she was a post-doctoral researcher at the Chair for Cognitive Systems at the Technical University of Munich (TUM). She completed her Ph.D. (summa cum laude) at the Department of Electrical and Computer Engineering at the TUM, Germany in 2015. She received the Laura Bassi award granted by TUM and the Bavarian government in 2015, also in that year she received the price of excellent Doctoral degree for female engineering students, granted by the state of Bavaria, Germany. In 2011, she received the Google Anita Borg scholarship. Her research interests include Semantic Representations, Interpretable methods, and Human Activity Recognition and Understanding.
+
+### Cédric Colas - "Towards Social Autotelic Agents"
+
+Cédric Colas is a postdoctoral researcher in the Computational Cognitive Science Lab at MIT and the Flowers Lab at INRIA. His PhD thesis introduced the concept of autotelic learning as a computational framework for endowing artificial agents with the ability to represent and pursue their own goals. Through the co-evolution of goal generation and goal achievement systems, autotelic learning makes the first steps towards a computational model of human’s ability to grow repertoires of skills throughout a lifetime. His current research interests include the examination of the role of social interactions in shaping the goal representations and goal reaching skills of artificial agents.
+
+### Meng Guo - "Hybrid Optimization for Multi-agent Systems with Expert Knowledge"
+
+Meng Guo received his M.Sc. degree (2011) in System, Control, and Robotics and the Ph.D. degree (2016) in Electrical Engineering from KTH Royal Institute of Technology, Sweden. He was a postdoctoral associate with the Department of Mechanical Engineering and Materials Science, Duke University, USA. During 2018-2021, he worked as a senior research scientist on Reinforcement Learning and Planning at the Bosch Center for Artificial Intelligence (BCAI), Germany. Since 2022, he is an assistant professor at the Department of Mechanics and Engineering Science, College of Engineering, Peking University, China. He was the finalist of the EuRobotics George Giralt PhD Award 2017 and the European Embedded Control Institute (EECI) PhD Award 2017. He was the recipient of the NSF Science Fund Program for Distinguished Young Scholars (Overseas) 2022. His main research interests include task and motion planning for robotic systems.
+
+### Peter Stone - "Human in the Loop Learning for Robot Navigation and Task Learning from Implicit Human Feedback"
+
+Dr. Peter Stone holds the Truchard Foundation Chair in Computer Science at the University of Texas at Austin. He is Associate Chair of the Computer Science Department, as well as Director of Texas Robotics. In 2013 he was awarded the University of Texas System Regents' Outstanding Teaching Award and in 2014 he was inducted into the UT Austin Academy of Distinguished Teachers, earning him the title of University Distinguished Teaching Professor. Professor Stone's research interests in Artificial Intelligence include machine learning (especially reinforcement learning), multiagent systems, and robotics. Professor Stone received his Ph.D in Computer Science in 1998 from Carnegie Mellon University. From 1999 to 2002 he was a Senior Technical Staff Member in the Artificial Intelligence Principles Research Department at AT&T Labs - Research. He is an Alfred P. Sloan Research Fellow, Guggenheim Fellow, AAAI Fellow, IEEE Fellow, AAAS Fellow, ACM Fellow, Fulbright Scholar, and 2004 ONR Young Investigator. In 2007 he received the prestigious IJCAI Computers and Thought Award, given biannually to the top AI researcher under the age of 35, and in 2016 he was awarded the ACM/SIGAI Autonomous Agents Research Award. Professor Stone co-founded Cogitai, Inc., a startup company focused on continual learning, in 2015, and currently serves as Executive Director of Sony AI America.
+
+
+### Andy Zeng - "Language as Robot Middleware"
+
+Andy Zeng is a Senior Research Scientist at Google Brain working on machine learning and robotics. He received his Bachelors in Computer Science and Mathematics at UC Berkeley '15, and his PhD in Computer Science at Princeton '19. He is interested in building algorithms that enable machines to intelligently interact with the world and improve themselves over time. Andy received Best Paper Awards from T-RO '20, RSS'19, and has been finalist for best paper awards at CoRL '20 - '22, ICRA '20, RSS '19, IROS '18. He led perception as part of Team MIT-Princeton in the Amazon Robotics Challenge '16 and '17. Andy is a recipient of the Princeton SEAS Award for Excellence, Japan Foundation Paper Award, NVIDIA Fellowship '18, and Gordon Y.S. Wu Fellowship in Engineering and Wu Prize. His work has been featured in the press, including the New York Times, BBC, and Wired.
+
+### Dorsa Sadigh - "Adapting Humans to Interactively Learn from Them"
+
+Dorsa Sadigh is an assistant professor in Computer Science and Electrical Engineering at Stanford University. Her research interests lie in the intersection of robotics, learning, and control theory. Specifically, she is interested in developing algorithms for safe and adaptive human-robot and human-AI interaction. Dorsa received her doctoral degree in Electrical Engineering and Computer Sciences (EECS) from UC Berkeley in 2017, and received her bachelor’s degree in EECS from UC Berkeley in 2012. She is awarded the Sloan Fellowship, NSF CAREER, ONR Young Investigator Award, AFOSR Young Investigator Award, DARPA Young Faculty Award, Okawa Foundation Fellowship, MIT TR35, and the IEEE RAS Early Academic Career Award.
+
+### Nick Hawes - "Closing remarks, summarizing the conclusions from the workshop"
+
+Nick Hawes is a Professor of AI and Robotics in the Department of Engineering Science at the University of Oxford. He directs the Oxford Robotics Institute (ORI), a federation of seven research groups spanning the breadth of robotics research. He is also a Tutorial Fellow at Pembroke College, and a Group Leader for AI/Robotics at the Alan Turing Institute, the UK’s national institute for AI and data science. Within the ORI he leads the Goal-Oriented Autonomous Long-Lived Systems (GOALS) group which performs research into sequential decision-making for autonomous systems, including robots and heterogenous multi-agent teams. From 2013 to 2017 he led the EU STRANDS project which achieved breakthroughs in long-term autonomy for mobile service robots in everyday environments. More recent highlights include the deployment of an autonomous mission planning stack on a quadruped at an active nuclear site, and on an autonomous underwater vehicle harvesting data from a sensor network. Professor Hawes is a passionate believer in public engagement, and an Academic Champion for Public Engagement with Research at the University of Oxford.
