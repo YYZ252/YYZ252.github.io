@@ -14,7 +14,7 @@ description: Program
 | 11:00 to 12:30 | 11:00 Invited Talk - Meng Guo <br>  11:30 Invited Talk - Cédric Colas <br> 12:00 Spotlights session 2|
 | 12:30 to 13:30 | Lunch break |
 | 13:30 to 15:00 | 13:30 Invited Talk - George Konidaris <br> 14:00 Junior panel  |
-| 15:00 to 16:00 | Coffee Break and poster session                                     |
+| 15:00 to 16:00 | Poster Session                                     |
 | 16:00 to 17:00 | 16:00 Invited Talk - Dorsa Sadigh  <br> 16:30 Invited Talk - Andy Zeng|
 | 17:00 to 17:30 | Nick Hawes                                      |
 
