@@ -32,15 +32,6 @@ We focus on enabling life-long learning with human help through:
 - Neuro-symbolic AI for robotics 
 
 
-### Important dates
-
-- Workshop paper submission deadline: ~~28th April 2023 (AOE)~~
-- Author notification: ~~12th May 2023~~
-- Camera-ready: 24th May 2023
-- Finalized workshop program: ~~25th May 2023~~
-- Workshop date: **29<sup>th</sup> May 2023**
-
-
 ### Speakers 
 
 <center>
@@ -108,6 +99,14 @@ We focus on enabling life-long learning with human help through:
 
 </center>
 
+### Important dates
+
+- Workshop paper submission deadline: ~~28th April 2023 (AOE)~~
+- Author notification: ~~12th May 2023~~
+- Camera-ready: 24th May 2023
+- Finalized workshop program: ~~25th May 2023~~
+- Workshop date: **29<sup>th</sup> May 2023**
+
 
 ### Organizers 
 
@@ -144,7 +143,7 @@ We focus on enabling life-long learning with human help through:
     <td style="text-align: center; vertical-align: top; border: none;"><b>Zlatan Ajanović</b><br>TU Delft</td>
     <td style="text-align: center; vertical-align: top; border: none;"><b>Jens Kober</b><br>TU Delft</td>
     <td style="text-align: center; vertical-align: top; border: none;"><b>Jana Tumova</b><br>KTH Royal Institute of Technology</td>
-    <td style="text-align: center; vertical-align: top; border: none;"><b>Christian Pek</b><br>KTH Royal Institute of Technology</td>
+    <td style="text-align: center; vertical-align: top; border: none;"><b>Christian Pek</b><br>TU Delft</td>
     <td style="text-align: center; vertical-align: top; border: none;"><b>Selma Musić</b><br>Stanford University</td>
   </tr> 
 </table>
