@@ -52,7 +52,7 @@ tbd
 #### Spotlight session 2
 
 - Anna-Lisa Vollmer, Daniel Leidner, Michael Beetz and Britta Wrede, "From Interactive to Co-Constructive Task Learning"
-- Ifueko Igbinedion and Sertac Karaman, "Learning When to Ask for Help: Transferring Human Knowledge through Part-Time Demonstration"
+- Ifueko Igbinedion and Sertac Karaman, "Learning When to Ask for Help: Transferring Human Knowledge through Part-Time Demonstration" [arxiv](https://arxiv.org/abs/2305.16502)
 - Breanne Crockett, Kyler Ruvane, Matthew Luebbers and Bradley Hayes, "Effective Human-in-the-loop Control Handover via Confidence-Aware Autonomy"
 - Ifrah Idrees, Tian Yun, Naveen Sharma, Nakul Gopalan, George Konidaris and Stefanie Tellex, "Improved Inference of Human Intent by Combining Plan Recognition and Language Feedback" [arxiv](https://urldefense.com/v3/__https://drive.google.com/file/d/1tjHGXlRQRmIsrnyFZViT0kGrTCZH1xIz/view?usp=sharing__;!!PAKc-5URQlI!49assJ4QFNE2T-LxbM9OGT9-jBKKzAE5vBZ1bTliXbG5tjj5yfmENJgYBw_XgIgzmehIaYEazbbIAdFx$)
 - Tribhi Kathuria and Maani Ghaffari Jadidi, "Navigating using Spatial Semantic Scene Graphs with Socially aware inverse reinforcement learning planner in cluttered, dynamic environments"
