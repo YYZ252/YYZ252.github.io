@@ -6,6 +6,8 @@ description: Program
 
 ## Program
 
+[Infovaya direct link](https://events.infovaya.com/session?id=16557)
+
 ### Schedule
 
 | 09:00 to 09:10 | Introduction and Welcome by Workshop Organizers                                  | 
