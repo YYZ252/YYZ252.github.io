@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Autonomous robots often need to operate with and around humans, to provide added value to the collaborative team, to earn-and-prove trustworthiness, as well as to utilize the support from the human team-mates. The presence of humans brings additional challenges for robot decision-making, but also opportunities for improving the decision-making capabilities with human help. Two major computational paradigms for sequential decision-making are planning and learning.
+Autonomous12345 robots often need to operate with and around humans, to provide added value to the collaborative team, to earn-and-prove trustworthiness, as well as to utilize the support from the human team-mates. The presence of humans brings additional challenges for robot decision-making, but also opportunities for improving the decision-making capabilities with human help. Two major computational paradigms for sequential decision-making are planning and learning.
 
 Planning in multi-stage robotic problems is not trivial, mainly due to computational efficiency (due to the curse of dimensionality) and the need for accurate models. To plan more efficiently, researchers use hierarchical abstractions (e.g. Task and Motion Planning - TAMP). Representing the problem as TAMP enables to incorporate declarative knowledge and to achieve predictable and interpretable behavior. However, creating declarative models requires significant engineering effort and it is practically impossible to account in advance for all possible cases robots might face in the long-term operations in the wild. Therefore, life-long learning presents itself as a necessity and human help as a dependable source of knowledge! 
 
